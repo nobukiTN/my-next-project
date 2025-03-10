@@ -1,6 +1,6 @@
 import "./globals.css";
-import Header from "./_conponents/Header";
-import Footer from "./_conponents/Footer";
+import Header from "./_components/Header";
+import Footer from "./_components/Footer";
 export default function RootLayout({
   children,
 }: Readonly<{

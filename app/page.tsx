@@ -1,8 +1,8 @@
  import styles from "./page.module.css";
  import Image from "next/image";
 
- import NewsList  from "@/app/_conponents/NewsList";
- import ButtonLink from "@/app/_conponents/ButtonLink";
+ import NewsList  from "@/app/_components//NewsList";
+ import ButtonLink from "@/app/_components//ButtonLink";
 import {News} from "@/app/_libs/microcms";
 
 const data: {
