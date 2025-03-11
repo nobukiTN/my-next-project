@@ -4,27 +4,21 @@
     z-index: 1000;
     display: flex;
     align-items: center;
-    justify-content:space-between;
-    width:1000%;
-}
-
-.logoLink{
-    display:flex;
-}
-
-.logo {
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .logoLink {
+    display: flex;
+  }
+  
+  .logo {
     height: 24px;
     width: auto;
-}
-
-.items{
-    display: flex;
-    color: #fff;
-    gap: 40px;
-}
-
-@media (max-width: 640px) {
-    .header{
-        padding: 24px 16px 8px;
+  }
+  
+  @media (max-width: 640px) {
+    .header {
+      padding: 24px 16px 8px;
     }
-}
+  }
